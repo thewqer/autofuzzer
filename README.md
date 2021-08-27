@@ -1,7 +1,2 @@
-#    _____          __          _____                                  
-#   /  _  \  __ ___/  |_  _____/ ____\_ __________________ ___________ 
-#  /  /_\  \|  |  \   __\/  _ \   __\  |  \___   /\___   // __ \_  __ \
-# /    |    \  |  /|  | (  <_> )  | |  |  //    /  /    /\  ___/|  | \/
-# \____|__  /____/ |__|  \____/|__| |____//_____ \/_____ \\___  >__|   
-#         \/                                    \/      \/    \/     
+# -- Autofuzzer -- (autoffuf)
 This tool automates ffuf to run through multiple domains previously aquired as an output of amass
